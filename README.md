@@ -21,7 +21,6 @@ This is a personal portfolio website built using **React** and **Tailwind CSS**.
 ## 📸 Screenshots
 
 <img width="1502" height="958" alt="Screenshot 2025-07-25 141842" src="https://github.com/user-attachments/assets/a2981e87-3e70-44e8-b5b8-8182cc5fd0fd" />
-<img width="1501" height="958" alt="Screenshot 2025-07-25 141859" src="https://github.com/user-attachments/assets/84a04669-a177-40eb-99e6-da61618d264e" />
 <img width="1631" height="955" alt="Screenshot 2025-07-25 141941" src="https://github.com/user-attachments/assets/65d63025-070c-4f21-ab6e-d12d66e50a0b" />
 
 
